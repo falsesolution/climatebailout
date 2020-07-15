@@ -889,6 +889,30 @@ section.lazy-placeholder:after {
 .cid-s43zALOTiz blockquote {
   color: #767676;
 }
+.cid-s43zALOTiz .mbr-text {
+  color: #232323;
+}
+.cid-s4OVbgPoWi {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 45px;
+}
+.cid-s4OVbgPoWi .image-block {
+  margin: auto;
+}
+.cid-s4OVbgPoWi figcaption {
+  position: relative;
+}
+.cid-s4OVbgPoWi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s4OVbgPoWi .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s43Cy0MGuX {
   padding-top: 0px;
   padding-bottom: 0px;
