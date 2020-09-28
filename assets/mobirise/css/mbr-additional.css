@@ -768,6 +768,19 @@ section.lazy-placeholder:after {
 .cid-s3vUO1Bbe3 P {
   color: #767676;
 }
+.cid-s4UH6r8R3j {
+  background: #2e2e2e;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-s4UH6r8R3j .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s4UH6r8R3j .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s3v5VnDqPe {
   padding-top: 45px;
   padding-bottom: 60px;
